@@ -3,20 +3,21 @@
 <h2>👨🏻‍💻 &nbsp;A little bit about me</h2>
 
 ```python
-name = "Felipe"
-current_job = "AI Software Engineer"
-looking_to = "Collaborate with companies that want to change the world"
+# Environment: Python 3.12
+name: str = "Felipe"
+current_role: str = "AI Engineer"
+mission: str = "Building custom SDKs, robust RAG architectures, and autonomous agents to global enterprises."
 
-passions = [
+passions: list[str] = [
+  "Agentic AI",
   "Learning new stuff",
   "Traveling",
-  "Reading",
-  "Music", 
-  "Drums",
+  "Restoring vintage iPods",
+  "Music & Drums",
   "Muay Thai",
   "Magic the Gathering",
-  "RPG"
-]
+  "Counter-Strike 2"
+]]
 
 ```
 
