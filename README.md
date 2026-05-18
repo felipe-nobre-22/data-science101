@@ -17,7 +17,7 @@ passions: list[str] = [
   "Muay Thai",
   "Magic the Gathering",
   "Counter-Strike 2"
-]]
+]
 
 ```
 
